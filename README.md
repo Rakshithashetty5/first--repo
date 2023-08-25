@@ -1,3 +1,4 @@
 # first--repo
-This is my frirst Git repository
+This is my first Git repository
+<br>
 Author-appu shetty
